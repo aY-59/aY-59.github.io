@@ -1,14 +1,14 @@
 # Site settings
-title: aY-59
+title: 阿颖的博客
 description: > #简介
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+我只是过来玩玩
 
 baseurl: "/" # the subpath of your site, e.g. /blog/ 域名的根
 url: "https://aY-59.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: aY-59
-  github: github
+  github: https://github.com/aY-59/aY-59.github.io
   #linkedin: linkedin
   email: 2287420829@qq.com
 
