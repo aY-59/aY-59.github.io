@@ -1,8 +1,7 @@
 # Site settings
 title: 阿颖的博客
 description: >
-基本版本吧
-
+ 这是一个好的博客
 baseurl: "/" # the subpath of your site, e.g. /blog/ 域名的根
 url: "https://aY-59.github.io" # the base hostname & protocol for your site
 
