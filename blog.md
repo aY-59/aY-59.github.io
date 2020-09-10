@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-subtitle: Select ramblings of Pudhina
+title: 阿颖的博客
+subtitle: 一个个人技术博客
 ---
 
 <div>
