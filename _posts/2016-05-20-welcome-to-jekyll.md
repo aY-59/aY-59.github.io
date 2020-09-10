@@ -3,7 +3,7 @@ layout: page
 title:  "欢迎来到阿颖的博客"
 subtitle: "一个个人技术博客"
 date:   2016-05-20 21:21:21 +0530
-categories: ["general"]
+categories: ["一般"]
 ---
 空白 `_posts`  `jekyll serve`
 

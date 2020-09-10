@@ -3,7 +3,7 @@ layout: page
 title: "这篇文章演示了帖子内容样式"
 subtitle: "一个个人技术博客"
 date:   2016-05-20 21:21:21 +0530
-categories: junk
+categories: 垃圾
 author: "阿颖"
 meta: "Springfield"
 ---
