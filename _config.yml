@@ -1,5 +1,5 @@
 # Site settings
-title: Pudhina
+title: aY-59
 description: > #简介
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
@@ -7,10 +7,10 @@ baseurl: "/" # the subpath of your site, e.g. /blog/ 域名的根
 url: "https://aY-59.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
+  fullname: aY-59
   github: github
-  linkedin: linkedin
-  email: example@email.com
+  #linkedin: linkedin
+  email: 2287420829@qq.com
 
 
 # Syntax highlighting
