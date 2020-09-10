@@ -1,60 +1,57 @@
 ---
 layout: page
-title: Résumé
-subtitle: An awesome person
+title: 我的简介
+subtitle: 一个棒棒的人
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> 下载为 PDF</strong></a> </span>
 <br>
 
-### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+### 技能
+``` 只要你足够废物，你就不需要任何技能  ```  
 
-### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+### 工程项目
+**标题** - 说明 - 位置 <span style="float: right; ">时间跨度</span>  
+别说话，看着就行 
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**标题** - 说明 - 位置 <span style="float: right; ">时间跨度</span>  
+别说话，看着就行 
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**标题** - 说明 - 位置 <span style="float: right; ">时间跨度</span>  
+别说话，看着就行 
 
-### EDUCATION
+### 教育
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+研究所 <span style="float: right; ">持续时间</span>  
+**课程**  
+有兴趣就来没兴趣就拜拜  
  
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+研究所 <span style="float: right; ">持续时间</span>  
+**课程**  
+有兴趣就来没兴趣就拜拜  
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
+研究所 <span style="float: right; ">持续时间</span>  
+**课程**  
+有兴趣就来没兴趣就拜拜 
 
-### EXPERIENCE
+### 经验
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+标题 - **如何成为菜鸟** <span style="float: right; ">持续时间</span>  
+只要你不努力，你就能得到你想要的结果  
 
  
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+标题 - **如何成为菜鸟** <span style="float: right; ">持续时间</span>  
+只要你不努力，你就能得到你想要的结果  
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+标题 - **如何成为菜鸟** <span style="float: right; ">持续时间</span>  
+只要你不努力，你就能得到你想要的结果  
 
 
-### RECOGNITION & INTERESTS
+### 认识与兴趣
 
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+- 生活不止眼前的苟且，还有诗和远方.
+- 生活不止眼前的苟且，还有诗和远方.
+- 生活不止眼前的苟且，还有诗和远方.
+- 生活不止眼前的苟且，还有诗和远方.
+- 生活不止眼前的苟且，还有诗和远方.
+- 生活不止眼前的苟且，还有诗和远方.
