@@ -1,6 +1,6 @@
 # Site settings
 title: 阿颖的博客
-description: > #简介
+description: >
 我只是过来玩玩
 
 baseurl: "/" # the subpath of your site, e.g. /blog/ 域名的根
